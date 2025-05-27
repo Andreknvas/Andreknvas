@@ -1,12 +1,13 @@
 <h1 align="center">Olá! Eu meu nome é André</h1>
-
+<br>
 <p align="center">
   💻 Desenvolvedor Fullstack Júnior, cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/">FAETERJ-Rio</a>  
 </p>
 
 ---
-
-## 🧑🏻‍💻 Linguagens que trabalho
+<br>
+<h2 align="center">🧑🏻‍💻 Linguagens que trabalho</h2>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,8 +16,9 @@
 </p>
 
 ---
-
-## 🛠️ Ferramentas que mais utilizo
+<br>
+<h2 align="center">🛠️ Ferramentas que mais utilizo</h2>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,12 +27,11 @@
 </p>
 
 ---
-
-
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreknvas&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+<br>
 
 ---
 
