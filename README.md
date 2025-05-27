@@ -37,7 +37,7 @@
 ## 📫 Como me encontrar
 
 - ✉️ Email: andreluiz1002@gmail.com  
-- 💼 LinkedIn: [seu-linkedin]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/andr%C3%A9-luiz-rodrigues/))  
+- 💼 <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-rodrigues/">Linkedin</a>
 
 ---
 
