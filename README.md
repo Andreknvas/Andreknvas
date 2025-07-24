@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,git,linux,neovim,postman,github,photoshop" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=docker,figma,git,linux,xcode,neovim,postman,github,photoshop" alt="My Skills" />
   </a>
 </p>
 
