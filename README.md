@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,php,javascript,mysql,postgresql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,swift,html,css,php,javascript,mysql,postgresql" alt="My Skills" />
   </a>
 </p>
 
