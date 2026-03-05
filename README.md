@@ -29,7 +29,7 @@
 ---
 <br>
 <p align="center">
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreknvas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=andreknvas&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 <br>
 
