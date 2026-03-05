@@ -6,12 +6,12 @@
 
 ---
 <br>
-<h2 align="center">🧑🏻‍💻 Linguagens que trabalho</h2>
+<h2 align="center">🧑🏻‍💻 Linguagens e frameworks que trabalho</h2>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,ruby,php,rust,mysql,postgresql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,django,dart,flutter,ruby,php,rust,mysql,postgresql" alt="My Skills" />
   </a>
 </p>
 
