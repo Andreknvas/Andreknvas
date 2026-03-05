@@ -29,7 +29,7 @@
 ---
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreknvas&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreknvas&theme=radical" alt="GitHub Streak" />
 </p>
 <br>
 
