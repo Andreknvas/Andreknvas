@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,swift,php,javascript,mysql,postgresql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,ruby,php,rust,mysql,postgresql" alt="My Skills" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,git,linux,neovim,postman,github,photoshop" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=docker,figma,git,linux,neovim,postman,github,gimp" alt="My Skills" />
   </a>
 </p>
 
