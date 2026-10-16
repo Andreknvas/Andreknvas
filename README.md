@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu meu nome é André</h1>
 <br>
 <p align="center">
-  💻 Desenvolvedor Fullstack Júnior, cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/">FAETERJ-Rio</a>  
+  💻 Data Scientist, cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/">FAETERJ-Rio</a>  
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ## 📫 Como me encontrar
 
-- ✉️ andreluiz1002@gmail.com  
+- ✉️ rdsandreluiz@gmail.com  
 - 💼 <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-rodrigues/">Linkedin</a>
 
 ---
